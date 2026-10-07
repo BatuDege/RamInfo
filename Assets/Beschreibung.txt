@@ -1,0 +1,1 @@
+RamInfo zeichnet den Arbeitsspeicherverbrauch laufender Windows-Prozesse auf und stellt ihn in Tabellen und Diagrammen dar. Filter, Kennzahlen und zusammengefasste Prozessverläufe helfen dabei, den RAM-Verbrauch zu vergleichen und speicherintensive Anwendungen zu erkennen.
